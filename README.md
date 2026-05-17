@@ -1,14 +1,11 @@
 
 # learn_python3_spider
 接下来就是，学习python的正确姿势！
-
-[等下，阿里云服务器/2核2G/3M/40g，99元/年？？？](https://t.aliyun.com/U/DYTxRF)
-
 peace.
 
 # 我开发的小程序「要克制」
 
-帮你戒色：
+如果你喜欢健身的话：
 ![要克制小程序](https://github.com/wistbean/learn_python3_spider/blob/master/ykz.png)
 
 # python爬虫教程从0到1
