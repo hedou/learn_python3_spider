@@ -3,10 +3,11 @@
 接下来就是，学习python的正确姿势！
 peace.
 
-# 我开发的小程序「要克制」
+# 我开发的小程序「健身动作库与计划」
 
 如果你喜欢健身的话：
-![要克制小程序](https://github.com/wistbean/learn_python3_spider/blob/master/ykz.png)
+
+![健身小程序](https://github.com/wistbean/learn_python3_spider/blob/master/js.png)
 
 # python爬虫教程从0到1
 
